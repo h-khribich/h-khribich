@@ -44,10 +44,10 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 
 Feel free to get in touch! => hamza.khribich@gmail.com
 
-#javascript #react #redux #frontend #developer #css #html #sass #jest #bootstrap #front #framework
+Icons from [Devicon](https://devicon.dev/)
 
 <br />
-Icons from [https://devicon.dev/](https://devicon.dev/)
+#javascript #react #redux #frontend #developer #css #html #sass #jest #bootstrap #front #framework
 
 
 <!--
