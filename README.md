@@ -18,6 +18,8 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 
 - Use best practices to structure HTML, CSS and Javascript code
 
+- Work within the agile methodology
+
 - Test the proper functioning of the application and correct the code when necessary
 
 - Produce technical and functional documentation of the application
@@ -41,7 +43,7 @@ Feel free to get in touch! => hamza.khribich@gmail.com
 Icons from [Devicon](https://devicon.dev/)
 
 <br />
-#javascript #react #redux #frontend #developer #css #html #sass #jest #bootstrap #front #framework
+#javascript #react #redux #frontend #developer #css #html #sass #jest #agile #bootstrap #front #framework
 
 
 <!--
