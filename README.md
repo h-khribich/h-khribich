@@ -1,5 +1,4 @@
 ## Hi there! I'm Hamza Khribich 👋
-
 <br />
 
 I went to a school of Communication and left a developer.
@@ -11,7 +10,6 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 <br />
 
 ## What I learned 🤓
-
 <br />
 
 - Use libraries and other frameworks in various projects (React, Redux, Bootstrap, Sass...)
@@ -31,7 +29,6 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 <br />
 
 ## Languages & Tools 🗂
-
 [<img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="Sass" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="30px"/>](https://sass-lang.com/)
@@ -43,7 +40,7 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 [<img alt="Figma" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/>](https://www.figma.com/)
 [<img alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>](https://code.visualstudio.com/)
 
-<br / >
+<br />
 
 Feel free to get in touch! => hamza.khribich@gmail.com
 
