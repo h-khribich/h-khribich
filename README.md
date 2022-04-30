@@ -1,5 +1,4 @@
 ## Hi there! I'm Hamza Khribich 👋
-<br />
 
 I went to a school of Communication and left a developer.
 
@@ -10,7 +9,6 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 <br />
 
 ## What I learned 🤓
-<br />
 
 - Use libraries and other frameworks in various projects (React, Redux, Bootstrap, Sass...)
 
