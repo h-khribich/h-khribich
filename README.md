@@ -6,8 +6,6 @@ Oups. 😄
 
 I'm interested in all things front-end and currently following OpenClassrooms' [Javascript React Developer] (https://openclassrooms.com/en/paths/517-javascript-react-developer) course.
 
-<br />
-
 ## What I learned 🤓
 
 - Use libraries and other frameworks in various projects (React, Redux, Bootstrap, Sass...)
@@ -23,8 +21,6 @@ I'm interested in all things front-end and currently following OpenClassrooms' [
 - Test the proper functioning of the application and correct the code when necessary
 
 - Produce technical and functional documentation of the application
-
-<br />
 
 ## Languages & Tools 🗂
 [<img alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
