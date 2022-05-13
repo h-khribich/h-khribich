@@ -4,7 +4,7 @@ I went to a school of Communication and left a developer.
 
 Oups. 😄
 
-I'm interested in all things front-end and currently following OpenClassrooms' [Javascript React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course.
+I'm interested in all things front-end after following OpenClassrooms' [Javascript React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course.
 
 ## What I learned 🤓
 
