@@ -6,7 +6,7 @@ Oups. 😄
 
 I'm interested in all things front-end after following OpenClassrooms' [Javascript React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course.
 
-## What I learned 🤓
+## What I can do 🤓
 
 - Use libraries and other frameworks in various projects (React, Redux, Bootstrap, Sass...)
 
