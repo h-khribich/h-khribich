@@ -6,6 +6,8 @@ Oups. 😄
 
 I'm interested in all things front-end after following OpenClassrooms' [Javascript React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course.
 
+Visit my [portfolio!](https://portfolio-2cs.pages.dev/#)
+
 ## What I can do 🤓
 
 - Use libraries and other frameworks in various projects (React, Redux, Bootstrap, Sass...)
@@ -37,6 +39,8 @@ I'm interested in all things front-end after following OpenClassrooms' [Javascri
 [<img alt="Visual Studio Code" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px"/>](https://code.visualstudio.com/)
 
 <br />
+
+Visit my [portfolio!](https://portfolio-2cs.pages.dev/#)
 
 Feel free to get in touch! => hamza.khribich@gmail.com
 
