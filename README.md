@@ -1,14 +1,10 @@
 ## Hi there! I'm Hamza Khribich 👋
 
-I went to a school of Communication and left a developer.
-
-Oups. 😄
-
-I'm interested in all things front-end after following OpenClassrooms' [Javascript React Developer](https://openclassrooms.com/en/paths/517-javascript-react-developer) course.
+ISTQB - Foundation certified, I'm looking to enter the world of software testing. With a background in web development (front-end, JS/react), I can draw on my knowledge of programming and algorithms to make progress in testing and better understand the objects under test. Bilingual in English and mobile throughout France, I'd like to move into test automation in the medium term.
 
 Visit my [portfolio!](https://portfolio-2cs.pages.dev/#)
 
-## What I can do 🤓
+## What I can do in web dev 🤓
 
 - Use libraries and other frameworks in various projects (React, Redux, Bootstrap, Sass...)
 
@@ -47,7 +43,7 @@ Feel free to get in touch! => hamza.khribich@gmail.com
 Icons from [Devicon](https://devicon.dev/)
 
 <br />
-#javascript #react #redux #frontend #developer #css #html #sass #jest #agile #bootstrap #front #framework
+#testing #automation #agile #developer #css #html #sass #jest #agile #bootstrap #front #framework
 
 
 <!--
