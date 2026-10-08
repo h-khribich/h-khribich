@@ -43,4 +43,4 @@ Icônes par [Devicon](https://devicon.dev/)
 
 <br />
 
-#QA #TestAutomation # DevOps #DevSecOps #Cypress #Playwright #CICD #GitLab #JavaScript #TypeScript #Docker #Kubernetes
+#QA #TestAutomation # DevOps #Cypress #Playwright #CICD #GitLab #JavaScript #TypeScript #Docker #Kubernetes
