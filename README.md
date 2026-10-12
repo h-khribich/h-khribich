@@ -37,9 +37,8 @@ ETEINDRE CE PORTFOLIO: Découvrez mon [portfolio !](https://portfolio-2cs.pages.
 
 <br />
 
-N'hésitez pas à me contacter => hamza.khribich@gmail.com
-
-Icônes par [Devicon](https://devicon.dev/)
+N'hésitez pas à me contacter => hamza.khribich@gmail.com \
+LinkedIn: https://www.linkedin.com/in/hamzakhribich/
 
 <br />
 
