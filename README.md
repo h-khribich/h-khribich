@@ -4,7 +4,7 @@
 
 Certifié **ISTQB** Fondation, je suis un ingénieur QA Automatisation spécialisé dans l'amélioration continue de la qualité logicielle. M'appuyant sur mon bagage en développement web (JavaScript, TypeScript, React), je conçois et maintiens des suites de tests **automatisés** (E2E, intégration, régression). 
 
-J'étends actuellement mon périmètre technique vers le **DevSecOps**, l'infrastructure-as-code et les tests de performance et de sécurité afin de garantir la qualité logicielle dans des pipelines de déploiement rapides, robustes et sécurisés.
+J'étends actuellement mon périmètre technique vers les tests de performance et de sécurité afin de garantir la qualité logicielle dans des pipelines de déploiement rapides, robustes et sécurisés.
 
 <!-- 
 !!! TO DO !!!
